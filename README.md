@@ -67,8 +67,6 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
   - It was used describe and it nomenclature in a clear and objective way;
 
-  - It was configured the project for low Chrome consumption in e2e settings;
-
   - It was used commands as a good practice to code the scenarios below.
     
   - The project wiki details the testing strategies used for this project, as well as possible improvements.<br>
